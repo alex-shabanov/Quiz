@@ -38,7 +38,7 @@ git fork https://github.com/alex-shabanov/Quiz.git
 to create a copy of the project on GitHub account from where it can be pulled to local machine, or
 git clone https://github.com/alex-shabanov/Quiz.git 
 to create a copy of the porject on local machine where it can then be pushed to GitHub account
-Add the QMaze folder to your Android project workspace.
+Add the Quiz folder to your Android project workspace.
 ```
 =========================
 ###Examples
