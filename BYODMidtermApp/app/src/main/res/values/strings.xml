@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">BYODMidtermApp</string>
+    <string name="action_settings">Settings</string>
+    <string name="answerAButton">A</string>
+    <string name="answerBButton">B</string>
+    <string name="answerCButton">C</string>
+    <string name="answerDButton">D</string>
+    <string name="answerEButton">E</string>
+    <string name="nextButton">Next</string>
+    <string name="prevButton">Prev</string>
+    <string name="submitButton">Submit</string>
+    <string name="answerA">Answer A Selected</string>
+    <string name="answerB">Answer B Selected</string>
+    <string name="answerC">Answer C Selected</string>
+    <string name="answerD">Answer D Selected</string>
+    <string name="answerE">Answer E Selected</string>
+    <string name="title_activity_name_form">NameForm</string>
+    <string name="studentName">Enter Student Name</string>
+    <string name="studentNumber">Enter Student Number</string>
+    <string name="submitAnswers">Submit Answers</string>
+    <string name="blankStudentName">Student name cannot be blank</string>
+    <string name="blankStudentNumber">Student number cannot be blank</string>
+</resources>

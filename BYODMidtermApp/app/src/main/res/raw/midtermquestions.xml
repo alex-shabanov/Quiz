@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8"?>
+<midterm>
+    <question questionkey="Q1">
+        <question_text>In Java what is the size of long variable?</question_text>
+        <answerA>8 bit</answerA>
+        <answerB>16 bit</answerB>
+        <answerC>32 bit</answerC>
+        <answerD>64 bit</answerD>
+        <answerE>None of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q2">
+        <question_text>What is the default value of char variable?</question_text>
+        <answerA>\u0000</answerA>
+        <answerB>0</answerB>
+        <answerC>1</answerC>
+        <answerD>null</answerD>
+        <answerE>Not defined</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q3">
+        <question_text>Which of the following is false about String?</question_text>
+        <answerA>String is immutable</answerA>
+        <answerB>Created with new operator</answerB>
+        <answerC>Is primary data type</answerC>
+        <answerD>Is secondary data type</answerD>
+        <answerE>None of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q4">
+        <question_text>Which is the way in which a thread can enter the waiting state?</question_text>
+        <answerA>Using sleep method</answerA>
+        <answerB>Using wait method</answerB>
+        <answerC>Using suspend method</answerC>
+        <answerD>All of the above</answerD>
+        <answerE>None of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q5">
+        <question_text>In Java, what kind of variables a class can consist of?</question_text>
+        <answerA>Class variables</answerA>
+        <answerB>Local variables</answerB>
+        <answerC>Instance variables</answerC>
+        <answerD>All of the above</answerD>
+        <answerE>Global variables</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q6">
+        <question_text>Method Overloading is an example of?</question_text>
+        <answerA>Static binding</answerA>
+        <answerB>Dynamic binding</answerB>
+        <answerC>All of the above</answerC>
+        <answerD>Local binding</answerD>
+        <answerE>None of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q7">
+        <question_text>What is a class in java?</question_text>
+        <answerA>Blue print of an object</answerA>
+        <answerB>Special data type</answerB>
+        <answerC>Allocates memory to types</answerC>
+        <answerD>All of the above</answerD>
+        <answerE>None of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q8">
+        <question_text>Which arithmetic operations can result in the throwing of an ArithmeticException?</question_text>
+        <answerA>/ and %</answerA>
+        <answerB>* and +</answerB>
+        <answerC>! and -</answerC>
+        <answerD>== and !=</answerD>
+        <answerE>All of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q9">
+        <question_text>In which case, a program is expected to recover?</question_text>
+        <answerA>If an error occurs</answerA>
+        <answerB>If an exception occurs</answerB>
+        <answerC>Both of the above</answerC>
+        <answerD>Compilation error</answerD>
+        <answerE>None of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q10">
+        <question_text>Which of the following is not a keyword in java?</question_text>
+        <answerA>static</answerA>
+        <answerB>void</answerB>
+        <answerC>Boolean</answerC>
+        <answerD>public</answerD>
+        <answerE>private</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q11">
+        <question_text>In Java, what is the size of float variable?</question_text>
+        <answerA>4 bit</answerA>
+        <answerB>8 bit</answerB>
+        <answerC>16 bit</answerC>
+        <answerD>32 bit</answerD>
+        <answerE>64 bit</answerE>
+        <studnet_email>olexiyshabanov@cmail.carleton.ca</studnet_email>
+    </question>
+    <question questionkey="Q12">
+        <question_text>In Java, what is polymorphism?</question_text>
+        <answerA>Defining different objects of same type</answerA>
+        <answerB>Objects that take on only single form</answerB>
+        <answerC>Defining same objects of different type</answerC>
+        <answerD>Defining different methods of same type</answerD>
+        <answerE>Ability of an object to take on many forms</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q13">
+        <question_text>What is an applet?</question_text>
+        <answerA>A Web browser program</answerA>
+        <answerB>Standalone java program</answerB>
+        <answerC>Applet is a tool</answerC>
+        <answerD>Is a run time environment</answerD>
+        <answerE>None of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q14">
+        <question_text>What is the default value of Object variable?</question_text>
+        <answerA>undefined</answerA>
+        <answerB>0</answerB>
+        <answerC>null</answerC>
+        <answerD>not defined</answerD>
+        <answerE>none of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+    <question questionkey="Q15">
+        <question_text>What is the default value of String variable?</question_text>
+        <answerA>null</answerA>
+        <answerB>""</answerB>
+        <answerC>\u1010</answerC>
+        <answerD>not defied</answerD>
+        <answerE>none of the above</answerE>
+        <student_email>olexiyshabanov@cmail.carleton.ca</student_email>
+    </question>
+</midterm>
