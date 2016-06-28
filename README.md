@@ -43,13 +43,12 @@ Add the QMaze folder to your Android project workspace.
 =========================
 ###Examples
 
-![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage1.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage2.png)
-![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage3.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage4.png)
-![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage5.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage6.png)
-![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage7.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage8.png)
+![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage1.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage5.png)
+![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage6.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage7.png)
+![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage2.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage3.png)
+![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage4.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage8.png)
 ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage9.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage10.png)
 ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage11.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage12.png)
-![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage13.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage14.png)
 ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage15.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage18.png)
 ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage17.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage21.png)
 ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage20.png) ![alt tag](https://github.com/alex-shabanov/Quiz/blob/master/Screenshots/quizimage16.png)
